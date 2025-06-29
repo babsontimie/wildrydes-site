@@ -4,6 +4,7 @@ window._config = {
         userPoolClientId: '6qu15faccjcimqcne5h3rocak5', 
         region: 'us-east-1' 
     },
+    
     api: {
         invokeUrl: 'https://b8hr1whxef.execute-api.ap-south-1.amazonaws.com/prod',
     }
